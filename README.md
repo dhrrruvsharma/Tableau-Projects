@@ -4,7 +4,7 @@ This repository contains various Tableau projects demonstrating different data v
 
 ## Projects
 
-### Project 1: Seattle Airbnb Analysis
+### Project 1: Seattle Airbnb Analysis - 11 July 2024
 - **Description:** This project uses the Seattle Airbnb dataset from Kaggle to generate multiple sheets for a comprehensive dashboard in Tableau.
 - **Files:** `seattle_airbnb_dashboard.twbx`
 - **Details:**
@@ -15,7 +15,7 @@ This repository contains various Tableau projects demonstrating different data v
     - Average Price per Bedroom
     - Distinct Count of Bedroom Listings
 
-### Project 2: British Airways Reviews Analysis
+### Project 2: British Airways Reviews Analysis - 18 July 2024
 - **Description:** This project uses a raw dataset of British Airways reviews downloaded from GitHub to create a detailed dashboard using advanced Tableau features.
 - **Files:** `british_airways_reviews_dashboard.twbx`
 - **Details:**
@@ -25,7 +25,7 @@ This repository contains various Tableau projects demonstrating different data v
     - Rating by Country Using Different Metrics
   - **Navigation:** Includes a navigation bar allowing users to explore reviews using different metrics.
 
-### Project 3: Sales and Customer Dashboards (Dynamic)
+### Project 3: Sales and Customer Dashboards (Dynamic) - 26th - 27th July 2024
 - **Description:** This project involves creating dynamic dashboards to analyze sales and customer data. It integrates various high-level Tableau features for comprehensive insights.
 - **Files:** `sales_customer_dashboard.twbx`
 - **Dasboard Details:**
@@ -39,7 +39,7 @@ This repository contains various Tableau projects demonstrating different data v
     - **Charts:** Customer Distribution by Number of Orders, Top 10 Customers by Profit
     - **Interactive Features:** Filters, Title Navigation Buttons, Logos
 
-### **Project 4: HR Dashboards (Dynamic)**
+### **Project 4: HR Dashboards (Dynamic)** 6th - 8th July 2024
 - **Description**: This project includes two dynamic HR dashboards designed to analyze human resources data, providing both high-level overviews and detailed employee records.
 - **Files**: `hr_dashboards.twbx`
 - **Dashboard Details**:

@@ -28,7 +28,7 @@ This repository contains various Tableau projects demonstrating different data v
 ### Project 3: Sales and Customer Dashboards (Dynamic)
 - **Description:** This project involves creating dynamic dashboards to analyze sales and customer data. It integrates various high-level Tableau features for comprehensive insights.
 - **Files:** `sales_customer_dashboard.twbx`
-- **Details:**
+- **Dasboard Details:**
   - **Sales Dashboard:**
     - **KPIs:** Total Sales, Total Profit, Total Quantity
     - **Charts:** Sales and Profit by Subcategory, Sales and Profit Trends Over Time
@@ -39,3 +39,26 @@ This repository contains various Tableau projects demonstrating different data v
     - **Charts:** Customer Distribution by Number of Orders, Top 10 Customers by Profit
     - **Interactive Features:** Filters, Title Navigation Buttons, Logos
 
+### **Project 4: HR Dashboards (Dynamic)**
+- **Description**: This project includes two dynamic HR dashboards designed to analyze human resources data, providing both high-level overviews and detailed employee records.
+- **Files**: `hr_dashboards.twbx`
+- **Dashboard Details**:
+  - **Human Resources Dashboard Overview**:
+    - **Overview**:
+      - Total number of hired, active, and terminated employees.
+      - Trend analysis of hiring and termination over the years.
+      - Employee breakdown by department and job title.
+      - Comparison of employee distribution between headquarters (HQ in New York) and other branches.
+      - Geographic distribution of employees by city and state.
+    - **Demographics**:
+      - Gender ratio across the company.
+      - Age group and education level distribution.
+      - Number of employees within each age group and education level.
+      - Correlation between educational background and performance ratings.
+    - **Income Analysis**:
+      - Salary comparison across different education levels for both genders.
+      - Analysis of how age correlates with salary across departments.
+  - **Human Resources Dashboard Details**:
+    - **Employee Records View**:
+      - A detailed list of all employees, including name, department, position, gender, age, education, and salary.
+      - Ability to filter and sort the employee list by any of the available columns.
